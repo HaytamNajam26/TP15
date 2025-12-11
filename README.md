@@ -654,20 +654,25 @@ Les contributions sont les bienvenues ! N'hésitez pas à :
 
 Ce projet est sous licence MIT.
 
-## 👤 Auteur
+<img width="2088" height="961" alt="Screenshot 2025-12-11 165118" src="https://github.com/user-attachments/assets/c1903bad-ba13-4fbc-86a2-ed2e46d2efa2" />
+<img width="2097" height="958" alt="Screenshot 2025-12-11 165134" src="https://github.com/user-attachments/assets/aad44cc2-255f-4dfa-8fbb-ee68a72edaa4" />
+<img width="2107" height="1157" alt="Screenshot 2025-12-11 165145" src="https://github.com/user-attachments/assets/224592e0-ec09-4c97-b6d1-f91264b80066" />
+<img width="2105" height="902" alt="Screenshot 2025-12-11 165158" src="https://github.com/user-attachments/assets/cba1077a-2172-4ed2-afcd-276caebb7ee0" />
+<img width="2098" height="1297" alt="Screenshot 2025-12-11 165225" src="https://github.com/user-attachments/assets/f58954d2-dc44-4485-a64e-5d12687ab154" />
+<img width="2126" height="895" alt="Screenshot 2025-12-11 165244" src="https://github.com/user-attachments/assets/7f494469-c35c-49aa-b349-14f5a0188220" />
+<img width="2106" height="1074" alt="Screenshot 2025-12-11 165259" src="https://github.com/user-attachments/assets/70e77cb4-ad04-4ba0-a876-e517a485a425" />
+<img width="2107" height="1082" alt="Screenshot 2025-12-11 165313" src="https://github.com/user-attachments/assets/0d556ff5-712b-440b-afab-17d29d4962aa" />
+<img width="2139" height="1164" alt="Screenshot 2025-12-11 165328" src="https://github.com/user-attachments/assets/9fa3d2e8-d5b1-41ef-b379-825d19d07beb" />
 
-**Votre Nom**
 
-- GitHub: [@votre-username](https://github.com/votre-username)
-- Email: votre.email@example.com
 
-## 🙏 Remerciements
 
-- Spring Boot Team pour le framework exceptionnel
-- La communauté GraphQL pour les outils et la documentation
-- Tous les contributeurs open source
 
----
 
-⭐ Si ce projet vous a été utile, n'hésitez pas à lui donner une étoile !
+
+
+
+
+
+
 
